@@ -1,0 +1,53 @@
+.heading{
+    font-family: 'Varela Round', sans-serif;
+    color:  #00A86B;
+    font-size: 45px;
+    margin: 30px;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+     color: #666;
+     padding: 20px
+}
+.edit {
+    background: #FFD300;
+    padding: 10px 20px;
+    border: 2px solid #FFD300;
+    color: rgb(255,255,255);
+    border-radius: 4px;
+    font-weight: 600;
+    margin: 10px;
+}
+.edit:hover {
+     background:rgb(255,255,255);
+     color: #FFD300;
+     border: 2px solid #FFD300;
+}
+.delete {
+    background: rgb(255,40,0);
+    padding: 10px 20px;
+    border: 2px solid rgb(255,40,0);
+    color: rgb(255,255,255);
+    border-radius: 4px;
+    font-weight: 600;
+    margin: 10px;
+}
+.delete:hover {
+     background: rgb(255,255,255);
+     color: rgb(255,40,0);
+     border: 2px solid rgb(255,40,0);
+}
+th,td {
+    padding: 30px;
+   
+}
+th {
+    color: #666;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+}
+td {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #555;
+}
